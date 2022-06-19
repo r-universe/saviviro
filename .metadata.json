@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gmvarkit",
+    "oncran": true
+  },
+  {
+    "package": "uGMAR",
+    "oncran": true
+  }
+]
