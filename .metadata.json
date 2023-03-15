@@ -1,10 +1,10 @@
 [
   {
-    "package": "gmvarkit",
+    "package": "uGMAR",
     "oncran": true
   },
   {
-    "package": "uGMAR",
+    "package": "gmvarkit",
     "oncran": true
   }
 ]
