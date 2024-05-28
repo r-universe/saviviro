@@ -5,6 +5,9 @@
 [submodule "gmvarkit"]
 	path = gmvarkit
 	url = https://github.com/saviviro/gmvarkit
+[submodule "sstvars"]
+	path = sstvars
+	url = https://github.com/saviviro/sstvars
 [submodule "uGMAR"]
 	path = uGMAR
 	url = https://github.com/saviviro/ugmar
